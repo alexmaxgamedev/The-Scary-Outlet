@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/scary_ambience.ogg-f8ce19323847c1fb32079271564f4f12.oggstr"
+
+[deps]
+
+source_file="res://Audio/scary_ambience.ogg"
+dest_files=[ "res://.import/scary_ambience.ogg-f8ce19323847c1fb32079271564f4f12.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
